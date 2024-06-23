@@ -1,6 +1,5 @@
 # sql_analysis
 
-Jobs and Salaries in Data Science
 # Jobs and salaries in data science
 
 ![image1](https://github.com/niti-shaagrawal/sql_analysis/assets/152295238/d62d956e-1215-48f6-977d-4e20a49d214f)
